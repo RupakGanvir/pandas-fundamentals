@@ -56,7 +56,12 @@ After completing this notebook, you will be able to:
 ```text
 .
 ├── Pandas_Fundamentals.ipynb
-└── README.md
+├── README.md
+├── Data/
+│   ├── Data.csv
+│   └── TabSeparatedData.csv
+└── Output/
+    └── new_file.csv
 ```
 
 ---
